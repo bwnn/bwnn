@@ -1,6 +1,8 @@
 ## Hi there 👋
+https://github.com/user-attachments/assets/5ae7107b-178f-4a9f-b503-496e4c1050c7
 
 <!--
+
 **bwnn/bwnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
